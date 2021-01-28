@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+body {
+  background-color: #ededed;
+  color: #333;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+.calculator-ul {
+  list-style: none;
+}
+
+.calculator-ul li {
+  padding: 10px;
+}
+
+.page-wrap input {
+  margin-right: 5px !important;
+  margin-left: 5px !important;
+}
